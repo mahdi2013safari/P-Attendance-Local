@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="data:image/png;base64,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"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About INISPINIA Dashboard
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+یک داشبورد زیبا و کاربرد برای مدیریت سیستم ها طراحی شده است که در این جا من برای این داشبورد را روی فرم ورک لاراول تنظیم کرده ام تا دسترسی سریع به این فرم ورک را داشته باشیم
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -20,43 +20,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
